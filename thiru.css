@@ -1,0 +1,51 @@
+body{
+    margin-top: 100px;
+    margin-left:50px;
+    padding: 20px;
+    background-image: url("https://www.shutterstock.com/image-photo/kanyakumari-vivekananda-rock-memorial-thiruvalluvar-260nw-1487153795.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    background-size:cover;
+}
+
+.card{
+    border: 5px solid rgb(221, 245, 6);
+    background-color:black;
+}
+h1{
+    margin-left: 10px;
+    color: yellow;
+}
+h2{
+    margin-left: 10px;
+    color:rgb(202, 122, 162);
+}
+#kural{
+    margin-left: 10px;
+    color: rgb(243, 247, 9);
+}
+#eng_mn{
+    margin-left: 10px;
+    color: rgb(118, 173, 8);
+}
+#tam_mn{
+    margin-left: 10px;
+    color: rgb(231, 128, 10);
+}
+#inp_box{
+    margin-left: 10px;
+    width: 300px;
+    height:35px;
+    color: black;
+    border:5px solid rgb(236, 6, 25);
+}
+#btn{
+    margin-left: 10px;
+    height: 40px;
+    border: 5px solid rgb(236, 6, 25);
+    color:black;
+    
+}
